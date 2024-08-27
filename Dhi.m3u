@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Rajje TV" tvg-logo="" group-title="",Rajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="TVM" tvg-logo="" group-title="",TVM
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="PSM News" tvg-logo="" group-title="",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Maldives TV" tvg-logo="" group-title="",Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Yes TV" tvg-logo="" group-title="",Yes TV
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="SSTV TV" tvg-logo="" group-title="",SSTV TV
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
