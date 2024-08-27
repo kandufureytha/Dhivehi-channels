@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:1, Rajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:2, TVM
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:3, PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:4, Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:5, Yes TV
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+#EXTINF:6, SSTV TV
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
+#EXTINF:7, Dhaaris TV
+https://www.youtube.com/embed/3fxaxNYAP3I?autoplay=1&amp;controls=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fdhaaris.tv&amp;widgetid=1#EXTM3U
